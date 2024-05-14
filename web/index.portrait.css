@@ -1,0 +1,7 @@
+body > .section {
+	max-width: 90%;
+}
+
+.landscape {
+	display: none !important;
+}

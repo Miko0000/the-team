@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>The Team</title>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin" />
+		<link href="https://fonts.googleapis.com/css2?family=Merriweather" rel="stylesheet" />
+
+		<link rel="stylesheet" href="index.css"/>
+		<link rel="stylesheet" href="index.portrait.css" media="(orientation: portrait)"/>
+		<link rel="stylesheet" href="index.landscape.css" media="(orientation: landscape)"/>
+	</head>
+	<body>
+		<div class="background"></div>
+		<pre class="title">
+████████╗██╗░░██╗███████╗  ████████╗███████╗░█████╗░███╗░░░███╗
+╚══██╔══╝██║░░██║██╔════╝  ╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+░░░██║░░░███████║█████╗░░  ░░░██║░░░█████╗░░███████║██╔████╔██║
+░░░██║░░░██╔══██║██╔══╝░░  ░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+░░░██║░░░██║░░██║███████╗  ░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+░░░╚═╝░░░╚═╝░░╚═╝╚══════╝  ░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+		</pre>
+		<pre class="ver">
+░██╗░░░░░░░██╗███████╗██████╗░  ██████╗░███████╗████████╗░█████╗░  ░█████╗░░░░░░███╗░░░░░██████╗░
+░██║░░██╗░░██║██╔════╝██╔══██╗  ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗  ██╔══██╗░░░░████║░░░░░╚════██╗
+░╚██╗████╗██╔╝█████╗░░██████╦╝  ██████╦╝█████╗░░░░░██║░░░███████║  ██║░░██║░░░██╔██║░░░░░░░███╔═╝
+░░████╔═████║░██╔══╝░░██╔══██╗  ██╔══██╗██╔══╝░░░░░██║░░░██╔══██║  ██║░░██║░░░╚═╝██║░░░░░██╔══╝░░
+░░╚██╔╝░╚██╔╝░███████╗██████╦╝  ██████╦╝███████╗░░░██║░░░██║░░██║  ╚█████╔╝██╗███████╗██╗███████╗
+░░░╚═╝░░░╚═╝░░╚══════╝╚═════╝░  ╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝  ░╚════╝░╚═╝╚══════╝╚═╝╚══════╝
+		</pre>
+		<div class="section">
+			<div class="background"></div>
+			<h2>Fun Bots!</h2>
+			<img class="thumbnail" src="res/bot.webp"></img>
+			<p><!--
+				                                                                                .
+			-->
+					Play with our server's bot, invite yours, or the one you made, even if
+				it's unfinished!
+			</p>
+		</div>
+		<div class="section">
+			<img src="res/screenshot1.jpg"></img>
+		</div>
+		<div class="section landscape">
+			<img src="res/screenshot2.jpg"></img>
+		</div>
+		<div class="section">
+			<div class="background"></div>
+			<h2>Chat with us!</h2>
+			<img class="thumbnail" src="res/chat.webp"></img>
+			<p>
+					The server was intended to be diverse, including a wide range of topic
+				from Programming, to Cats!
+			</p>
+		</div>
+		<div class="section portrait">
+			<img src="res/screenshot2.jpg"></img>
+		</div>
+		<div class="section">
+			<div class="background"></div>
+			<h2>Work on a project, together!</h2>
+			<img class="thumbnail" src="res/together.webp"></img>
+			<p>
+					Let's make your dream project come true! May it be a Discord Bot,
+				a Website, or anything else that doesn't break the rules!
+			</p>
+		</div>
+		<div class="section">
+			<img src="res/screenshot3.jpg"></img>
+		</div>
+		<br />
+		<br />
+		<iframe class="discord-iframe" src="https://discord.com/widget?id=1048555708381155410&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	</body>
+</html>

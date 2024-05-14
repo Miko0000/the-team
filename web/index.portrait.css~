@@ -1,0 +1,11 @@
+body > .section {
+	max-width: 90%;
+}
+
+.landscape {
+	display: none !important;
+}
+
+.portrait {
+	display: unset !important;
+}
